@@ -12,3 +12,4 @@ This is a github repository in regards of learning powerapps this hacktoberfest.
 1. https://learn.microsoft.com/en-us/training/powerplatform/power-apps
 2. https://learn.microsoft.com/en-us/training/modules/introduction-power-apps/
 3. https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/
+4. https://pratikrk.github.io/LearnPowerapp/
